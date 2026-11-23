@@ -1,18 +1,26 @@
 {
   "name": "Kaiqboy 图标库",
-  "description": "个人收集的图标，共 3 个，更新日期：2026-11-16 21:58:25",
+  "description": "个人收集的图标，共 5 个，更新日期：2026-11-23 10:37:52",
   "icons": [
     {
       "name": "kaiqboy",
-      "url": "https://raw.githubusercontent.com/bupangde/Clash/main/icon/kaiqboy.jpg"
+      "url": "https://raw.githubusercontent.com/kaiqboy/Clash/main/icon/kaiqboy.jpg"
+    },
+    {
+      "name": "PingMe",
+      "url": "https://raw.githubusercontent.com/kaiqboy/Clash/main/icon/PingMe.PNG"
     },
     {
       "name": "一点万象",
-      "url": "https://raw.githubusercontent.com/bupangde/Clash/main/icon/一点万象.png"
+      "url": "https://raw.githubusercontent.com/kaiqboy/Clash/main/icon/一点万象.png"
+    },
+    {
+      "name": "咪咕视频",
+      "url": "https://raw.githubusercontent.com/kaiqboy/Clash/main/icon/咪咕视频.PNG"
     },
     {
       "name": "坨坨云",
-      "url": "https://raw.githubusercontent.com/bupangde/Clash/main/icon/坨坨云.png"
+      "url": "https://raw.githubusercontent.com/kaiqboy/Clash/main/icon/坨坨云.png"
     }
   ]
 }
