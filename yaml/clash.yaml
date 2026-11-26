@@ -630,8 +630,9 @@ rules:
   - DOMAIN-SUFFIX,ts.net,直连
   - IP-CIDR,168.138.206.143/32,默认代理,no-resolve
   - IP-CIDR,161.33.168.82/32,默认代理,no-resolve
-  - DOMAIN-SUFFIX,kaiq.dpdns.org,默认代理
-  - DOMAIN-SUFFIX,bupang.dpdns.org,默认代理
+  - DOMAIN-SUFFIX,kaiq.dpdns.org,直接
+  - DOMAIN-SUFFIX,bupang.dpdns.org,直接
+  - DOMAIN-SUFFIX,kaiq.cc.cd,直连
   - DOMAIN-SUFFIX,workers.dev,默认代理
   - DOMAIN-SUFFIX,pages.dev,默认代理
   # 私有网络直连
